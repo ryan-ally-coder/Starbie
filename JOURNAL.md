@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10h | 2 |
+| Week 1 | Tier 1 | 10.5h | 2 |
 
 ## Contents
 
@@ -21,14 +21,14 @@
 
 ### 2026-10-10 – Oct 9 2026
 
-**4.5h**
+**5h**
 
 Oct 9 2026
 I wanted to make a cool hardware project but I didn't have any experience so I decided to go with the guided project AKA the Starbie. I created the schematic for the hardware which wasn't too difficult. The only hard part was trying not to get overwhelmed by the sheer amount of components in the placer. But by the end of hour 1, with help from the guide and Youtube. I was able to create the schematic for the Starbie
 
 ![Screenshot 2026-10-05 215821](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/FrwjC1X5XOInayrnpPDTeLMtHsB5eUED/632a045802eae4b15cedfb1891592b901a53d08f6620a61f4e2139eba919e089.png)
 
-After that, I had to create the copper connections between everything so that it actually worked. This step took me 3 hours (which I am not proud of) mostly because I refused to turning the components because I thought something might mess up if I did rotate some. But after that problem was resolved, everything became pretty straight forward and I was able to create the PCB design for the Starbie (the blue lines are the connections.
+After that, I had to create the copper connections between everything so that it actually worked. This step took me 3 hours (which I am not proud of) mostly because I refused to turning the components because I thought something might mess up if I did rotate some. But after that problem was resolved, everything became pretty straight forward and I was able to create the PCB design for the Starbie (the blue lines are the connections).
 
 ![Screenshot 2026-10-05 215443](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/FrwjC1X5XOInayrnpPDTeLMtHsB5eUED/99e5ba7c4d3cc103562d74cae09f4a8839b5bbc76b5f580400f2430d069186ef.png)
 
