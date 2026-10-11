@@ -16,9 +16,8 @@
 | Conn_01x08_Pin | — | 1 | $0.00 | $0.00 | — |
 | [10k](https://www.digikey.ca/en/products/detail/te-connectivity-passive-product/LR1F10K/2381159) | Pull-up resistor for DHT11 data stability | 1 | $0.15 | $0.15 | [digikey](https://www.digikey.ca/en/products/detail/te-connectivity-passive-product/LR1F10K/2381159) |
 | SW_Push | — | 2 | $0.00 | $0.00 | — |
-| [DHT11](https://ca.robotshop.com/products/dht11-temperature-humidity-sensor-module-breakout) | Environmental Data Capture | 1 | $2.16 | $2.16 | [RobotShop](https://ca.robotshop.com/products/dht11-temperature-humidity-sensor-module-breakout) |
-| **Parts subtotal** | — | — | — | **$2.31** | — |
+| **Parts subtotal** | — | — | — | **$0.15** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$2.31** | — |
+| **Total** | — | — | — | **$0.15** | — |
 
-$27.69 left of the tier's funding.
+$29.85 left of the tier's funding.
