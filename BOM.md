@@ -21,7 +21,7 @@
 | [MPU6050](https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.productlist.main.6.7ae53357zBs8UB&algo_pvid=ced4c461-b228-4920-b30a-320b241a699a&algo_exp_id=ced4c461-b228-4920-b30a-320b241a699a-5&pdp_ext_f=%7B%22order%22%3A%222505%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%212.67%212.40%21%21%2112.28%2111.05%21%402101ef5e17917685313954719e0dd3%2112000046422332178%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A775999f3%3Bm03_new_user%3A-29895&curPageLogUid=7uuLLC9pmNHT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007989748804%7C_p_origin_prod%3A) | Detects motion and tilt orientation | 1 | $2.40 | $2.40 | [aliexpress](https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.productlist.main.6.7ae53357zBs8UB&algo_pvid=ced4c461-b228-4920-b30a-320b241a699a&algo_exp_id=ced4c461-b228-4920-b30a-320b241a699a-5&pdp_ext_f=%7B%22order%22%3A%222505%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%212.67%212.40%21%21%2112.28%2111.05%21%402101ef5e17917685313954719e0dd3%2112000046422332178%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A775999f3%3Bm03_new_user%3A-29895&curPageLogUid=7uuLLC9pmNHT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007989748804%7C_p_origin_prod%3A) |
 | [PCB](https://www.jlcpcb.com/) | The grid for everything | 1 | $6.58 | $6.58 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$24.86** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.86** | — |
+| **Tax & shipping** | — | — | — | **$3.23** | — |
+| **Total** | — | — | — | **$28.09** | — |
 
-$5.14 left of the tier's funding.
+$1.91 left of the tier's funding.
